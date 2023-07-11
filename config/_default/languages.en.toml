@@ -11,7 +11,7 @@ title = "C4leb0rn"
   logo = "img/logo.png"
   # secondaryLogo = "img/secondary-logo.png"
   description = "Blog on InfoSec"
-  copyright = "Copyright C4leb0rn"
+  copyright = "Copyright C4leb0rn 2023"
 
 [author]
   name = "C4leborn"
